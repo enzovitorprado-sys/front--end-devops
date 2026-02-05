@@ -2,3 +2,5 @@
 
 # estudos
 - frontend
+- css
+- html
